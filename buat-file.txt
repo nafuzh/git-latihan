@@ -1,6 +1,4 @@
 File pertama saya di git
-Hello World
-
-Hello Viewer
+Selamat Datang
 
 Thanks
