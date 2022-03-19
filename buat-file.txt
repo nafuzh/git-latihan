@@ -1,4 +1,7 @@
 File pertama saya di git
 Selamat Datang
 
+Hello Viewer
+Apa Kabar?
+
 Thanks
